@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saidwalisagar" target="blank"><img src="https://img.shields.io/twitter/follow/saidwalisagar?logo=twitter&style=for-the-badge" alt="saidwalisagar" /></a> </p>
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **ASPNET.CORE**
 
 - 📫 How to reach me **ayyankhan1819@gmail.com**
 
